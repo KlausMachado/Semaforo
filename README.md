@@ -1,4 +1,4 @@
-# semaforo
+# Semaforo
 Mini projeto Semáforo
 
 Terceiro mini projeto que desenvolvi usando como base o video: https://youtu.be/EujFSEsZsk4
